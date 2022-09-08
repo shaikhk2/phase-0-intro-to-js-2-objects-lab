@@ -1,3 +1,4 @@
+let employee = {}
 describe('employees', function() {
   describe('updateEmployeeWithKeyAndValue(employee, key, value)', function () {
     beforeEach(function () {
